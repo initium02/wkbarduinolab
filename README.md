@@ -1,3 +1,4 @@
 # wkbarduinolab
--Frizing figure /div
+-Frizing figure
+
 -Arduino codes
