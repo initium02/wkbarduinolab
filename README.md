@@ -1,3 +1,3 @@
 # wkbarduinolab
--Frizing figure
+-Frizing figure \n
 -Arduino codes
